@@ -1,4 +1,5 @@
-### Hi there 👋
+### Namaskar 🙏 🙂 My name is Pragyan Prusty. I am a student of Computer Science 💻. 
+
 
 <!--
 **Pragyan-Prusty6/Pragyan-Prusty6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
