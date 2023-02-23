@@ -1,4 +1,6 @@
-### Namaskar 🙏 🙂 My name is Pragyan Prusty. I am a student of Computer Science 💻. 
+### Namaskar 🙏 🙂 
+My name is Pragyan Prusty. I am a student of Computer Science 💻. 
+
 
 
 <!--
