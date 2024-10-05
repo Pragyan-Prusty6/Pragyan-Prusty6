@@ -12,7 +12,6 @@ I'm a web developer with a passion for creativity and innovation. I have done my
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)
 
 
 
